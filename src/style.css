@@ -1,0 +1,30 @@
+body {
+  background-color: antiquewhite;
+  max-width: 900px;
+  margin: 0 auto;
+}
+.main {
+  text-align: center;
+}
+h1 {
+  font-size: 72px;
+}
+h1,
+h2,
+img {
+  padding: 30px;
+}
+a {
+  text-decoration: none;
+  color: black;
+  padding: 10px;
+}
+
+a:hover {
+  color: blue;
+}
+
+p {
+  text-align: justify;
+  margin-bottom: 50px;
+}
